@@ -13,8 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url                      : "https://hutchdatascience.org"
-baseurl                  : "/who"
+
+# url                      : "https://hutchdatascience.org"
+# baseurl                  : "/who"
+url                      : "https://whoiswho.fredhutch.org"
+baseurl                  : ""
+repo                     : "FredHutch/who-is-who"
 logo                     : "/images/FHDaSL_SQ-funfetti.png" ## "/images/fhdasl-brothers-squared.png"
 description              : "Home of the Fred Hutch Data Science Lab"
 title                    : ""
