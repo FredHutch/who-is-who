@@ -18,7 +18,7 @@
 # baseurl                  : "/who"
 url                      : "https://whoiswho.fredhutch.org"
 baseurl                  : ""
-repo                     : "FredHutch/who-is-who"
+repository               : "FredHutch/who-is-who"
 logo                     : "/images/FHDaSL_SQ-funfetti.png" ## "/images/fhdasl-brothers-squared.png"
 description              : "Home of the Fred Hutch Data Science Lab"
 title                    : ""
