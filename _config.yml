@@ -14,14 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# url                      : "https://hutchdatascience.org"
-# baseurl                  : "/who"
 url                      : "https://whoiswho.fredhutch.org"
 baseurl                  : ""
 repository               : "FredHutch/who-is-who"
-logo                     : "/images/FHDaSL_SQ-funfetti.png" ## "/images/fhdasl-brothers-squared.png"
+logo                     : "/images/favicon.ico" 
 description              : "Home of the Fred Hutch Data Science Lab"
-title                    : ""
+title                    : "Fred Hutch Data Science Lab"
 
 minimal_mistakes_skin: contrast
 search: false

@@ -4,4 +4,4 @@ layout: single
 permalink: /
 ---
 
-Find who's who organized by [role](/who/roles/) or by [keyword](/who/keywords/).
+Find out who's who in Fred Hutch Data, organized by [role](/roles/) or by [keyword](/keywords/).
