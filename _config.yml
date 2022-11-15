@@ -17,7 +17,7 @@
 url                      : "https://whoiswho.fredhutch.org"
 baseurl                  : ""
 repository               : "FredHutch/who-is-who"
-logo                     : "/images/franken-logo.png" 
+logo                     : "/images/big-dasl.png" 
 description              : "Home of the Fred Hutch Data Science Lab"
 title                    : ""
 
