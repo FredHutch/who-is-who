@@ -88,7 +88,7 @@ defaults:
       author_profile: false
       read_time: false
       comments: false
-      share: FHDataScienceLab_Rec
+      share: true
       related: true
   # _pages
   - scope:

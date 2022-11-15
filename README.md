@@ -1,4 +1,4 @@
-This is a who's who repo that renders a site at hutchdatascience.org/who (?) for collaborations that can be seen on the Hutch network only and is in a private repo to the Fred Hutch.  
+This is a who's who repo that renders a site at [whoiswho.fredhutch.org](https://whoiswho.fredhutch.org) for collaborations that can be seen on the Hutch network only and is in a private repo to the Fred Hutch.  
 
 
 ## How to contribute
@@ -27,6 +27,6 @@ categories:
 ---
 ```
 
-In this case, the "tags" include keywords about the data types, analysis approaches, tools and platforms you use in your work.  The "categories" include keywords about what kind of role you're interested in playing if another researcher were to contact you.  
+In this case, the "tags" are rendered on the site as "Keywords" and include keywords about the data types, analysis approaches, tools and platforms you use in your work.  The "categories" are rendered on teh site as "Roles" and include keywords about what kind of role you're interested in playing if another researcher were to contact you.  
 
 
