@@ -27,7 +27,7 @@ search: false
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "G-GZX7GS19YN"
+    tracking_id          :  "G-6ZC2S7M38Y"
     anonymize_ip         : # true, false (default)
 
 

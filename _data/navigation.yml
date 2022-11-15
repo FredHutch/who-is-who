@@ -5,3 +5,16 @@ main:
     url: /roles/
   - title: "Keywords"
     url: /keywords/
+
+
+
+frontpage:
+  - title: "Fred Hutch Data"
+    url: "https://whoiswho.fredhutch.org"
+    children:
+      - title: "Fred Hutch Data Science Lab"
+        url: "https://hutchdatascience.org"
+      - title: "Slack"
+        url: "https://fhdata.slack.com"
+      - title: "SciWiki"
+        url: "https://sciwiki.fredhutch.org"
