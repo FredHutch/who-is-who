@@ -90,6 +90,8 @@ defaults:
       comments: false
       share: true
       related: true
+      sidebar:
+        nav: "frontpage"
   # _pages
   - scope:
       path: "_pages"
@@ -97,6 +99,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar:
+        nav: "frontpage"
 
 category_archive:
   type: liquid
