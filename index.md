@@ -1,6 +1,6 @@
 ---
 title: Who's Who in Fred Hutch Data
-layout: wide
+layout: single
 permalink: /
 ---
 
