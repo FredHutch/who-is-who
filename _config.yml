@@ -17,7 +17,7 @@
 url                      : "https://whoiswho.fredhutch.org"
 baseurl                  : ""
 repository               : "FredHutch/who-is-who"
-logo                     : "/images/big-dasl.png" 
+logo                     : "/images/tall-dasl-site.png" 
 description              : "Home of the Fred Hutch Data Science Lab"
 title                    : ""
 
@@ -43,6 +43,10 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 
 include:
   - _pages
+
+
+search                   :  true #, false (default)
+search_full_content      :  true #, false (default)
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -74,7 +78,7 @@ footer:
     - label: "Join the Conversation on Slack"
       icon: "fab fa-fw fa-slack"
       url: https://fhdata.slack.com/
-    - label: "Read Hutch Data Science Docs"
+    - label: "Read Fred Hutch Data Science Docs"
       icon: "fas fa-book"
       url: https://sciwiki.fredhutch.org
 

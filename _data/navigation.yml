@@ -1,6 +1,4 @@
 main:
-  - title: "Who's Who"
-    url: /
   - title: "Roles"
     url: /roles/
   - title: "Keywords"
@@ -9,12 +7,11 @@ main:
 
 
 frontpage:
-  - title: "Fred Hutch Data"
-    url: https://whoiswho.fredhutch.org
+  - title: "Links Out"
     children:
       - title: "Fred Hutch Data Science Lab"
         url: https://hutchdatascience.org
-      - title: "Slack"
+      - title: "Fred Hutch Data Slack"
         url: https://fhdata.slack.com
-      - title: "SciWiki"
+      - title: "Fred Hutch SciWiki"
         url: https://sciwiki.fredhutch.org
