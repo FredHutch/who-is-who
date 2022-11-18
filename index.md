@@ -25,5 +25,5 @@ If you are familiar with using GitHub, you can find the specific instructions [h
 2.  Your primary institutional affiliation (e.g. FHCC, UW, Children's)
 3.  A list of keywords that describe your interests (e.g., genomics, R, metabolomics, statistics)
 4.  A list of keywords that describe what roles you're interested in playing (e.g., mentor, consultant, collaborator)
-5.  A short blurb about your work, who you are and most importantly, how you'd like people to contact you!
+5.  A short blurb about your work, what lab you are in if you're a mentee, who you are and most importantly, how you'd like people to contact you!
 
