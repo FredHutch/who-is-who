@@ -6,19 +6,16 @@ sidebar:
   nav: frontpage
 classes: wide
 ---
+**Are you a Fred Hutch or Cancer Consortium staff member interested in data science and/or data intensive collaborations?  Find out who's who in Fred Hutch Data, organized by [role](/roles/) or by [keyword](/keywords/) or use our full-text search feature.**
 
-This page is a pilot project that is a collaboration between the Fred Hutch Translational Data Science IRC and the Fred Hutch Data Science Lab.  It's intended to serve as an evolving resource to foster connections between Fred Hutch and other Cancer Consortium staff members and each other as well as the wider world. 
-
-Are you a Fred Hutch or Cancer Consortium staff member interested in data science and data intensive collaborations?  Would you like to be listed here?  
-
-
-Find out who's who in Fred Hutch Data, organized by [role](/roles/) or by [keyword](/keywords/).
+## What is this Project? 
+This page is a pilot project that is a collaboration between the [Fred Hutch Translational Data Science IRC](https://www.fredhutch.org/en/research/institutes-networks-ircs/translational-data-science-integrated-research-center.html) and the [Fred Hutch Data Science Lab](https://hutchdatascience.org/).  It's intended to serve as an evolving resource to foster connections between Fred Hutch and other Cancer Consortium staff members and each other as well as the wider world. 
 
 
 ## How to participate
-If you are familiar with using GitHub, you can find the specific instructions [here](https://github.com/FredHutch/who-is-who).  If you are not familiar with GitHub, you can email us at data@fredhutch.org and a member of the Fred Hutch Translational Data Science IRC or the Data Science Lab will help get you listed.  
+If you are familiar with using GitHub, you can find instructions [here](https://github.com/FredHutch/who-is-who).  If you are not familiar with GitHub, you can email us at `data@fredhutch.org` and a member of the Fred Hutch Translational Data Science IRC or the Fred Hutch Data Science Lab will help get you listed.  
 
-[This is our current post template]([https://github.com/FredHutch/who-is-who/template.md](https://github.com/FredHutch/who-is-who/blob/main/template.md)), so whether you are managing your own listing or going to ask for help, you'll need to have this information handy:
+[This is our current post template](https://github.com/FredHutch/who-is-who/blob/main/template.md).  Whether you are managing your own listing or going to ask for help, you'll need to have this information handy:
 
 
 1.  Your name

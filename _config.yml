@@ -17,12 +17,11 @@
 url                      : "https://whoiswho.fredhutch.org"
 baseurl                  : ""
 repository               : "FredHutch/who-is-who"
-logo                     : "/images/tall-dasl-site.png" 
-description              : "Home of the Fred Hutch Data Science Lab"
-title                    : ""
+logo                     : "/images/big-dasl-narrower-web.png" 
+description              : "A resource to foster data intensive collaborations at Fred Hutch and the Cancer Consortium."
+title                    : "Who is who in Fred Hutch Data"
 
 minimal_mistakes_skin: contrast
-search: false
 
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
@@ -47,7 +46,8 @@ include:
 
 search                   :  true #, false (default)
 search_full_content      :  true #, false (default)
-
+atom_feed:
+  hide: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

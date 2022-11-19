@@ -11,6 +11,8 @@ frontpage:
     children:
       - title: "Fred Hutch Data Science Lab"
         url: https://hutchdatascience.org
+      - title: "Translational Data Science IRC"
+        url: https://www.fredhutch.org/en/research/institutes-networks-ircs/translational-data-science-integrated-research-center.html
       - title: "Fred Hutch Data Slack"
         url: https://fhdata.slack.com
       - title: "Fred Hutch SciWiki"

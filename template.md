@@ -14,6 +14,9 @@ categories:
   - consult
 ---
 
+>A short blurb about your work, what lab you are in if you're a mentee, who you are and most importantly, how you'd like people to contact you!
+
+
 I'm a Senior Staff Scientist with the Fred Hutch Data Science Lab.  I do research primarily using genomic data to study intratumoral hetergeneity in leukemia.  I'm open for collaborations, mentoring and mentoring.
 
-Email me to collaborate: ap@fredhutch.org
+Email me at apaguiri@fredhutch.org or DM me in the [FH Data Slack Workspace](https://fhdata.slack.com).  
