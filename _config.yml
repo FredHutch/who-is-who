@@ -19,7 +19,7 @@ baseurl                  : ""
 repository               : "FredHutch/who-is-who"
 logo                     : "/images/big-dasl-narrower-web.png" 
 description              : "A resource to foster data intensive collaborations at Fred Hutch and the Cancer Consortium."
-title                    : "Who is who in Fred Hutch Data"
+title                    : ""
 
 minimal_mistakes_skin: contrast
 
