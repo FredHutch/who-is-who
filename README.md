@@ -3,9 +3,10 @@ This is a who's who repo that renders a site at [whoiswho.fredhutch.org](https:/
 
 ## How to contribute
 
-If you'd like to be listed in our Who's Who Directory and are familiar with using GitHub, you can:
+If you'd like to be listed in our Who's Who Directory and are familiar with using GitHub, this is how you can contribute:
 
-- simply create a branch, 
+- fork the repository and make a branch,
+> NOTE: If you are part of the All Fred Hutch GitHub team, you should not need to fork the repo before making your branch if you don't want to.  
 - copy the template post (template.md) into the folder called `_posts`, 
 - customize it,
 - and then do a pull request and we will review it for formatting prior to merging it!
