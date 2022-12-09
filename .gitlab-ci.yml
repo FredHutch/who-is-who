@@ -3,8 +3,6 @@ before_script:
   - apk --no-cache add py3-pip python3 curl
   - pip3 install pyyaml
   - curl -O https://raw.githubusercontent.com/FredHutch/swarm-build-helper/main/build_helper.py 
-  - curl -LO https://releases.rancher.com/cli/v0.6.2/rancher-linux-amd64-v0.6.2.tar.gz
-  - tar zxf rancher-linux-amd64-v0.6.2.tar.gz
   # below is from https://stackoverflow.com/a/65810302/470769
   - mkdir -p $HOME/.docker
   - echo $DOCKER_AUTH_CONFIG > $HOME/.docker/config.json
@@ -46,7 +44,6 @@ deploy:
     - docker tag sc-registry.fredhutch.org/whoiswho:test sc-registry.fredhutch.org/whoiswho:latest
     - docker push sc-registry.fredhutch.org/whoiswho:latest
     - sleep 15
-    # - echo $SC_SWARM_CICD_SSH_KEY | base64 -d > ./sc_swarm_cicd_ssh_key
-    # - chmod 0400 ./sc_swarm_cicd_ssh_key
-    # - python3 build_helper.py docker-compose.yml | ssh -i ./sc_swarm_cicd_ssh_key -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null root@sc-swarm-mgr.fhcrc.org docker stack deploy --with-registry-auth -c - whoiswho
-    - rancher-v0.6.2/rancher --url https://ponderosa.fhcrc.org --access-key $RANCHERAPI_KEY --secret-key $RANCHERAPI_SECRET up -d --pull --force-upgrade --confirm-upgrade --stack whoiswho --file docker-compose.yml --rancher-file rancher-compose.yml
+    - echo $SC_SWARM_CICD_SSH_KEY | base64 -d > ./sc_swarm_cicd_ssh_key
+    - chmod 0400 ./sc_swarm_cicd_ssh_key
+    - python3 build_helper.py docker-compose.yml | ssh -i ./sc_swarm_cicd_ssh_key -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null root@sc-swarm-mgr.fhcrc.org docker stack deploy --with-registry-auth -c - whoiswho
