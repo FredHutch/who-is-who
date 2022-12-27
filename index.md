@@ -13,7 +13,9 @@ This page is a pilot project that is a collaboration between the [Fred Hutch Tra
 
 
 ## How to participate
-If you are familiar with using GitHub, you can find instructions [here](https://github.com/FredHutch/who-is-who).  If you are not familiar with GitHub, you can email us at `data@fredhutch.org` and a member of the Fred Hutch Translational Data Science IRC or the Fred Hutch Data Science Lab will help get you listed.  
+
+### DIY
+If you are familiar with using GitHub, you can find instructions [here](https://github.com/FredHutch/who-is-who). Contributions can be made for yourself or if one person wants to contribute for their whole lab at once, a markdown for each member can be made and contributed in one PR.  
 
 [This is our current post template](https://github.com/FredHutch/who-is-who/blob/main/template.md).  Whether you are managing your own listing or going to ask for help, you'll need to have this information handy:
 
@@ -23,4 +25,10 @@ If you are familiar with using GitHub, you can find instructions [here](https://
 3.  A list of keywords that describe your interests (e.g., genomics, R, metabolomics, statistics)
 4.  A list of keywords that describe what roles you're interested in playing (e.g., mentor, consultant, collaborator)
 5.  A short blurb about your work, what lab you are in if you're a mentee, who you are and most importantly, how you'd like people to contact you!
+
+
+### Facilitated posting
+If you are not familiar with using GitHub, you can email us at data@fredhutch.org with the information above that we'll use to fill out a template document like [this one](https://github.com/FredHutch/who-is-who/blob/main/template.md).  We'll load it into the site and let you know when to look for it.  
+
+
 
