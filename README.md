@@ -1,4 +1,4 @@
-This is a who's who repo that renders a site at [whoiswho.fredhutch.org](https://whoiswho.fredhutch.org) for collaborations that can be seen on the Hutch network only and is in a private repo to the Fred Hutch.  
+This is a who's who repo that renders a site at [whoiswho.fredhutch.org](https://whoiswho.fredhutch.org).
 
 
 ## How to contribute
