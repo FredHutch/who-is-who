@@ -2,8 +2,9 @@ This is a who's who repo that renders a site at [whoiswho.fredhutch.org](https:/
 
 
 ## How to contribute
+>If you are not familiar with using GitHub, you can email us at data@fredhutch.org with the information above that we'll use to fill out a template document like [this one](https://github.com/FredHutch/who-is-who/blob/main/template.md).  We'll load it into the site and let you know when to look for it.  
 
-If you'd like to be listed in our Who's Who Directory and are familiar with using GitHub, this is how you can contribute:
+If you'd like to be listed in our Who's Who Directory and are familiar with using GitHub, this is how you can contribute for you or a group:
 
 - fork the repository and make a branch,
 > NOTE: If you are part of the All Fred Hutch GitHub team, you should not need to fork the repo before making your branch if you don't want to.  
