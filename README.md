@@ -33,7 +33,7 @@ categories:
 ---
 ```
 
-In this case, the "tags" are rendered on the site as "Keywords" and include keywords about the data types, analysis approaches, tools and platforms you use in your work.  The "categories" are rendered on teh site as "Roles" and include keywords about what kind of role you're interested in playing if another researcher were to contact you.  
+In this case, the "tags" are rendered on the site as "Keywords" and include keywords about the data types, analysis approaches, tools and platforms you use in your work.  The "categories" are rendered on the site as "Roles" and include keywords about what kind of role you're interested in playing if another researcher were to contact you.  
 
 ### Essential information
 While we do hope people customize their listing however they'd like, the following are the essential components we will require everyone to contribute on their listing.  
