@@ -20,7 +20,13 @@ build:
   stage: build
   script: |
     # python3 build_helper.py docker-compose.yml > /dev/null
-    docker build -t sc-registry.fredhutch.org/whoiswho:test .
+    if [ "$CI_COMMIT_BRANCH" == "main" ]; then
+      export JEKYLL_ENV=production
+    else
+      export JEKYLL_ENV=development
+    fi
+    # build image
+    docker build --build-arg JEKYLL_ENV=$JEKYLL_ENV -t sc-registry.fredhutch.org/whoiswho:test .
     docker push sc-registry.fredhutch.org/whoiswho:test
     sleep 5
 
