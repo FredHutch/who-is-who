@@ -2,7 +2,7 @@ version: '3.3'
 services:
   whoiswho:
     networks:
-      - proxy
+      - proxytemp
     image: sc-registry.fredhutch.org/whoiswho:latest
     deploy:
       restart_policy:
@@ -17,5 +17,5 @@ services:
 
                           
 networks:
-  proxy:
+  proxytemp:
     external: true
